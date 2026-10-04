@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+
+
+models/
+weights/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.gguf
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+temp/
+tmp/
